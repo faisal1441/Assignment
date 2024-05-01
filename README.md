@@ -1,2 +1,3 @@
 # Assignment
-A Simple Assignment of class 8
+Percentage Calculator
+Class 8
